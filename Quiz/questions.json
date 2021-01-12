@@ -1,66 +1,42 @@
 [
   {
-    "question": "CyberBullying takes place throught ",
-    "choice1": "Cell phones",
-    "choice2": "Tablets",
-    "choice3": "Computers",
-    "choice4": "All of the above",
-    "answer": 4
-  },
-  {
-    "question": "CyberBullying harms the online reputation of",
-    "choice1": "The person being bullied",
-    "choice2": "The bullies",
-    "choice3": "The bullies and the person being bullied",
-    "choice4": "The bullies or the person being bullied",
+    "question": "تمت ترجمة كتاب كليلة و دمنة في القرن ____ ؟",
+    "choice1": "السادس",
+    "choice2": "السابع",
+    "choice3": "الثامن",
+    "choice4": "التاسع",
     "answer": 3
   },
   {
-    "question": "What should you do if you receive a mean e-mail",
-    "choice1": "Find who did it ",
-    "choice2": "Get help from an adult",
-    "choice3": "Never use emails anymore",
-    "choice4": "Delete your account",
+    "question": "يتضمن الكتاب __ باب ",
+    "choice1": "5",
+    "choice2": "10",
+    "choice3": "15",
+    "choice4": "20",
+    "answer": 3
+  },
+  {
+    "question": "من يمثل رمز التعاون في كليلة و دمنة ؟",
+    "choice1": "الأسد",
+    "choice2": "الحمامة المطوقة",
+    "choice3": "دمنة",
+    "choice4": "الثور",
     "answer": 2
   },
   {
-    "question": "What Internet Danger causes generally loneliness ",
-    "choice1": "Cyber Predators",
-    "choice2": "Malwares",
-    "choice3": "Cyber Bullying",
-    "choice4": "Post private informations",
-    "answer": 3
-  },
-  {
-    "question": "Which malware collects your data in secret",
-    "choice1": "Spyware",
-    "choice2": "Ransomware",
-    "choice3": "Trojan Horse",
-    "choice4": "Virus",
+    "question": "ما هو أصل كليلة و دمنة ؟",
+    "choice1": "هندي",
+    "choice2": "مصري",
+    "choice3": "فارسي",
+    "choice4": "يوناني",
     "answer": 1
   },
   {
-    "question": "Which method is the best to protect yourself",
-    "choice1": "Stop using electronic devices",
-    "choice2": "Using a firewall",
-    "choice3": "Use a legitimate anti-malware and performing daily scans",
-    "choice4": "Minimize the downloads and only do it from secure websites",
-    "answer": 3
-  },
-  {
-    "question": "What should you do if you get a ransomware",
-    "choice1": "Pay for regaining your files",
-    "choice2": "Get a new PC",
-    "choice3": "Use an older backup of your PC",
-    "choice4": "None of the above",
-    "answer": 3
-  },
-  {
-    "question": "It has been estimated that _______ children have been sexually solicited online",
-    "choice1": "Two in five",
-    "choice2": "One in five",
-    "choice3": "Two in six",
-    "choice4": "Three on twelve",
-    "answer": 2
+    "question": "ما هو الاسم الأصلي لكليلة و دمنة ؟ ",
+    "choice1": "خرافات الغاب",
+    "choice2": "كليلة و دمنة",
+    "choice3": "الفصول الأربعة",
+    "choice4": "الفصول الخمسة",
+    "answer": 4
   }
 ]
